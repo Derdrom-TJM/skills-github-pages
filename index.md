@@ -1,5 +1,5 @@
 ---
-Potential CS Pathways
+title: Potential CS Pathways
 ---
 
 * Mobile App Development
